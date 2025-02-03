@@ -1,6 +1,4 @@
-# Project Proposal
-
-# TITLE: Music Sharing App
+# Project Proposal: Music Sharing App
 
 # What and Why?
 
